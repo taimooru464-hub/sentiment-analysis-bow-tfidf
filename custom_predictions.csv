@@ -1,0 +1,6 @@
+review,predicted_sentiment,confidence
+"This movie was absolutely fantastic, the acting was brilliant and I was hooked from start to finish.",pos,0.601
+"What a complete waste of time, the plot made no sense and the acting was painfully wooden.",neg,0.765
+"A decent watch overall, not the best film I have seen but definitely enjoyable with friends.",pos,0.815
+"I regret spending money on this, boring dialogue and a predictable, lazy ending.",neg,0.685
+"One of the most touching and beautifully shot films I have watched in years, truly a masterpiece.",pos,0.743
