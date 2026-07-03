@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+.ipynb_checkpoints/
+*.egg-info/
+
+# Environments
+venv/
+env/
+.venv/
+
+# NLTK data (large, downloaded automatically by nltk.download())
+nltk_data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints
